@@ -1,0 +1,8 @@
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\bin\Debug\Try Catch.exe.config
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\bin\Debug\Try Catch.exe
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\bin\Debug\Try Catch.pdb
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\obj\Debug\Try Catch.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\obj\Debug\Try Catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\obj\Debug\Try Catch.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\obj\Debug\Try Catch.exe
+C:\Users\Douglas\Desktop\Aula - Senap\Try Catch\obj\Debug\Try Catch.pdb
